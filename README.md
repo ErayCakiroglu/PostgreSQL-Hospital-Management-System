@@ -1,7 +1,7 @@
 ## **PostgreSQL-Hospital-Management-System**
 It offers a relational PostgreSQL database model that manages patient, doctor, appointment and prescription processes in hospital management systems.
 
-## **İçindekiler**
+## **Contents**
 - [Schema](#Schema)
 - [Tables](#tables)
 - [Functions](#functions)
